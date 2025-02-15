@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: To version control, it is necessary to use software git. This helps develpers push changes with limited impacts to the overall project, as any changes can be reversed if they do not work. In short, it helps developers maintain changes to code in an effective manner.
+
