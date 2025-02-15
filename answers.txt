@@ -5,3 +5,7 @@ Answer: To version control, it is necessary to use software git. This helps deve
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be used to increase agricultural productivity. For example, we can gather data on the amount, and type of fish feed used in fish farms, and run some experiments to gain insights to make fish farming more efficient.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: I have no idea. I am just learning about it. I suppose they are different forms of version control.
